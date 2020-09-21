@@ -1,5 +1,5 @@
 hello everyone
 we are about to make some changes here
 we made first change in remote
-one change in remote
+one change in local
 
